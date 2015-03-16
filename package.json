@@ -1,0 +1,19 @@
+{
+  "name": "TwitterCommonFollowers",
+  "version": "1.0.0",
+  "description": "Permet de savoir le nombre de followers en commun entre un compte A et B",
+  "main": "config.js",
+  "dependencies": {
+    "twit": "^1.1.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stornitz/TwitterForceUnfollow.git"
+  },
+  "author": "Stornitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stornitz/TwitterForceUnfollow/issues"
+  },
+  "homepage": "https://github.com/Stornitz/TwitterForceUnfollow"
+}
