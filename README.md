@@ -5,6 +5,7 @@ Permet de savoir le nombre de followers en commun entre un compte A et B.
 ```
 npm install
 ```
+Copier le fichier **config.template.js** vers **config.js** puis le remplir avec les tokens twitters
 
 ## How to use
 ```
