@@ -8,5 +8,6 @@ npm install
 
 ## How to use
 ```
-node CommunFollowers.js Stornitz GooglePlay
+node CommunFollowers.js UserA UserB
 ```
+_Example: `node CommunFollowers.js Stornitz GooglePlay`_
