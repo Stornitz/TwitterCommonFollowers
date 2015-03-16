@@ -1,5 +1,5 @@
 # TwitterCommunFollowers
-Marre d'avoir beaucoup de followers mais trop d'inactifs ? Forcez les à se désabonner !
+Permet de savoir le nombre de followers en commun entre un compte A et B.
 
 ## How to install
 ```
